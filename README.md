@@ -144,17 +144,6 @@ Este projeto teve como objetivo desenvolver conhecimentos em:
 
 ---
 
-# 📌 Possíveis Melhorias
-
-* [ ] Suporte a novas instruções da linguagem
-* [ ] Melhor tratamento de erros de sintaxe
-* [ ] Implementação de funções definidas pelo usuário
-* [ ] Interface gráfica
-* [ ] Testes automatizados
-* [ ] Melhor organização em múltiplos módulos
-
----
-
 # 👨‍💻 Autor
 
 Desenvolvido por **Gustavo Imada**.
